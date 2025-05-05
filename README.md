@@ -7,9 +7,6 @@
 
 
 ### Steps to run Code
-- Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/people-tracking-yolov7.git
 ```
 - Goto the cloned folder.
 ```
